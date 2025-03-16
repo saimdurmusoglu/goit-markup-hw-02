@@ -335,6 +335,7 @@ address a:hover {
   text-align: center;
   background-color: var(--white);
   border: 0.5px solid #eee;
+  border-radius: 4px;
   box-shadow: 1px 1px 8px #ddd;
   margin-bottom: 32px;
 }
