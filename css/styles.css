@@ -476,7 +476,6 @@ footer .footer-container {
 .footer-container .ft-logo {
   width: 264px;
   height: 112px;
-  margin-bottom: 16px;
 }
 
 .footer-container .ft-logo .footer-logo {
@@ -501,4 +500,5 @@ footer .footer-container {
   width: 264px;
   height: 72px;
   color: var(--cloud);
+  margin-top: 16px;
 }
