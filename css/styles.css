@@ -336,6 +336,7 @@ address a:hover {
   background-color: var(--white);
   border: 0.5px solid #eee;
   box-shadow: 1px 1px 8px #ddd;
+  margin-bottom: 32px;
 }
 
 .team-container li img {
